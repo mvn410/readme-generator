@@ -15,6 +15,6 @@
     "gh-badges": "^2.2.1",
     "inquirer": "^7.0.4",
     "install": "^0.13.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
